@@ -1,0 +1,13 @@
+{
+  "name": "irad_rng",
+  "version": "1.0.0",
+  "description": "Random Number Generator",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Irad Bouzidi",
+  "license": "ISC"
+}
